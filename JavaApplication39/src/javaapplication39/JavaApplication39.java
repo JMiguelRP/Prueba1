@@ -16,7 +16,7 @@ public class JavaApplication39 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola mundo pedaso de un puto");
+        
     }
     
 }
